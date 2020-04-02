@@ -10,9 +10,11 @@ Programación en C ,Clase 03  funciones
   -4 trabajo en la carpeta
   
   -5 agrego cambios y archivos 
+(git add . )
   
   -6 hago el commit ( tomo una instantanea del momento)
   
   -7 subir al repositorio WEB
 
 haciendo cambios
+
